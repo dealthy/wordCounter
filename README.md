@@ -1,0 +1,2 @@
+ - those java codes provide a simple and easy way to count the total words in a string
+ - the wordCount method in there is the core content
